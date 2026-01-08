@@ -1,0 +1,4 @@
+node_modules/
+test-result.png
+test-error.png
+package-lock.json
